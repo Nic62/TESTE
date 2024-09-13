@@ -1,0 +1,6 @@
+id,bioma,tamanho_total,animais_existentes,espaço_livre
+1,savana,10,macaco,5
+2,floresta,5,,5
+3,savana e rio,7,gazela,2
+4,rio,8,,5
+5,savana,9,leão,4
